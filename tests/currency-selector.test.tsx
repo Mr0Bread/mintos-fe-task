@@ -1,5 +1,5 @@
 import React from 'react'
-import { expect, describe, it, beforeEach, vi } from 'vitest'
+import { expect, describe, it, vi } from 'vitest'
 import { CurrencySelector } from '../src/currency-selector'
 import { render, screen, act } from '@testing-library/react';
 
